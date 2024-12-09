@@ -14,7 +14,7 @@
 
 ### Installation
 ```bash
-git clone https://github.com/kitbodee4/solana-whirlpools-swap-bot.git
+git clone https://github.com/kitbodee4/eclipse-tx.git
 cd solana-whirlpools-swap-bot
 ```
 ### Installs nvm (Node Version Manager)
